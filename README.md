@@ -63,4 +63,4 @@
 - [Ссылка на платформу](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiYutOpu-P9AhWD7eYKHSAIDqYYABABGgJ3cw&ohost=www.google.com&cid=CAESauD2AVsqFv6JnONU-A9v7zrX8U6-SF4BDHgvugooy9hMR0JG9loJ3j65ExigOT_IYFMvAYu2-Br7G3_cTuij33tIaiTDPf7pmwakAJOMNUEiKaGd34o5hsoi-WcLfhJhEHOk1xvPqKKwjr4&sig=AOD64_0K--eK4xXuV0rCFiV89SSF-q_nJg&q&adurl&ved=2ahUKEwiJo8ypu-P9AhUuSfEDHb_ID5IQ0Qx6BAgJEAE)
   1. Вам необходимо зарегестрироватся
   2. Обязательно указать настоящие Имя и Фамилия
-  3. [Ссылка на доску с задачами](https://trello.com/invite/b/50J4fCXQ/ATTI703f1a7a847c10ed87b7611cb103e35b1AE9CFAE/limoncello) (задачи буду ставится постепенно)
+  3. [Ссылка на доску с задачами](https://trello.com/invite/b/50J4fCXQ/ATTI703f1a7a847c10ed87b7611cb103e35b1AE9CFAE/limoncello) (задачи буду ставится постепенно).
