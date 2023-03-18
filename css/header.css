@@ -1,0 +1,9 @@
+.container {
+  max-width: 1600px;
+  width: 85%;
+  margin: 0 auto;
+}
+
+.header {
+  background-color: #fffff0f6;
+}
