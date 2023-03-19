@@ -1,0 +1,42 @@
+.block-1 {
+  background-image: url(../img/block1.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.block-1__content {
+  padding-top: 31.20rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.block-1__content h1 {
+  max-width: 75%;
+  margin: 0 auto;
+  color: #F0F0E6;
+  font-size: 6.6em;
+  text-align: center;
+  font-weight: 200;
+  line-height: 1.5 em;
+}
+
+.block-1__content__h1__green {
+  color: #CACFB7;
+}
+
+.block-1__content__book-now {
+  background-color: #263c2c79;
+  font-family: 'Kannada MN';
+  color: #fffff0;
+  font-size: 2em;
+  line-height: 1.2em;
+  padding: 0.6em 3.4em 0.3em;
+  margin: 1.4em 0 7em;
+  border: 1px solid #fffff0;
+  box-shadow: 0px 0px 0px 9px #263c2c79;
+    -webkit-box-shadow: 0px 0px 0px 9px #263c2c79;
+    -moz-box-shadow: 0px 0px 0px 9px #263c2c79;
+  cursor: pointer;
+}

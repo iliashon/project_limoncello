@@ -5,12 +5,12 @@
 
 @font-face {
   font-family: "Myanmar  MN";
-  src: url(./MyanmarMN.ttf);
+  src: url(./MyanmarMN.woff.ttf);
 }
 
 @font-face {
-  font-family: "Myanmar MN";
-  src: url(./myanmar\ mn_1.ttf);
+  font-family: "Myanmar MN bold";
+  src: url(./MyanmarMN-Bold.woff.ttf);
   font-weight: bold;
 }
 
@@ -20,7 +20,6 @@ a, h2 {
 
 h1, span {
   font-family: "Myanmar MN";
-  font-weight: bold;
 }
 
 p {
