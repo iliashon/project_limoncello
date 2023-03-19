@@ -1,9 +1,30 @@
+.header {
+  background-color: rgba(255, 255, 240, 0.95);;
+}
+
 .container {
-  max-width: 1600px;
-  width: 85%;
+  display: block;
+  width: 85% !important;
+  max-width: 1620px;
   margin: 0 auto;
 }
 
-.header {
-  background-color: #fffff0f6;
+.header__nav {
+  padding-bottom: 40px;
+}
+
+.header__nav ul {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header__nav ul li:not(:nth-child(4)) {
+  font-size: 2em;
+  margin-top: 1.4em;
+  line-height: 1.2em;
+  letter-spacing: -0.11em;
+  cursor: pointer;
+  transition: 0.3s;
 }
