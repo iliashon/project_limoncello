@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "Kannada MN";
+  src: url(./Kannada\ MN.ttc);
+}
+
+@font-face {
+  font-family: "Myanmar  MN";
+  src: url(./MyanmarMN.woff.ttf);
+}
+
+@font-face {
+  font-family: "Myanmar MN bold";
+  src: url(./MyanmarMN-Bold.woff.ttf);
+  font-weight: bold;
+}
+
+a, h2 {
+  font-family: 'Kannada MN';
+}
+
+h1, span {
+  font-family: "Myanmar MN";
+}
+
+p {
+  font-family: "Myanmar MN";
+}

@@ -1,0 +1,38 @@
+.header {
+  background-color: rgba(255, 255, 240, 0.95);
+  position: fixed;
+  z-index: 3;
+  max-height: 213px;
+  width: 100%;
+}
+
+.container {
+  display: block;
+  width: 85% !important;
+  max-width: 1620px;
+  margin: 0 auto;
+}
+
+.header__nav {
+  padding-bottom: 40px;
+}
+
+.header__nav ul {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header__nav ul li:not(:nth-child(4)) {
+  font-size: 1.7vw;
+  margin-top: 1.4em;
+  line-height: 1.2em;
+  letter-spacing: -0.11em;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.header__nav__logo {
+  width: 17.2vw;
+}
