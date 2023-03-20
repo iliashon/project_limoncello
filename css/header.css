@@ -25,10 +25,14 @@
 }
 
 .header__nav ul li:not(:nth-child(4)) {
-  font-size: 2em;
+  font-size: 1.7vw;
   margin-top: 1.4em;
   line-height: 1.2em;
   letter-spacing: -0.11em;
   cursor: pointer;
   transition: 0.3s;
+}
+
+.header__nav__logo {
+  width: 17.2vw;
 }
